@@ -13,6 +13,16 @@ I have experience working with React and JavaScript through multiple projects,
 including task management systems and UI-focused websites.
 
 I'm eager to learn new technologies and gain real-world experience through an internship.
+_____________________________________________________________________________
+
+### 🚀 Projects
+
+| Project | Description | Tech Stack |
+|--------|------------|------------|
+| 📝 **[React Task Project](https://thanayyy-react-task-project.netlify.app)** | Task management web app with CRUD, task status, and local storage | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 💰 **[React Finance Project](https://thanayyy-react-finance-project.netlify.app)** | Responsive finance UI website focused on clean layout and UX | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
+| 🔐 **[React Auth Supabase](https://thanayyy-react-auth-supabase.netlify.app)** | Authentication system with login, signup, and session handling | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) |
+| 🎨 **[HTML & CSS Practice](https://thanayyy-html-css-project.netlify.app)** | Practice projects for layout, styling, and responsive basics | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
 
 * 🌍  I'm based in Samut Prakan,Thailand
 * ✉️  You can contact me at [thanayyy5998@gmail.com](mailto:thanayyy5998@gmail.com)
@@ -26,15 +36,5 @@ I'm eager to learn new technologies and gain real-world experience through an in
 
 <p align="left"> <a href="https://www.github.com/thanayyy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/thanayyy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/THANAYUTTTT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 
-_____________________________________________________________________________
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack |
-|--------|------------|------------|
-| 📝 **[React Task Project](https://thanayyy-react-task-project.netlify.app)** | Task management web app with CRUD, task status, and local storage | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 💰 **[React Finance Project](https://thanayyy-react-finance-project.netlify.app)** | Responsive finance UI website focused on clean layout and UX | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
-| 🔐 **[React Auth Supabase](https://thanayyy-react-auth-supabase.netlify.app)** | Authentication system with login, signup, and session handling | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) |
-| 🎨 **[HTML & CSS Practice](https://thanayyy-html-css-project.netlify.app)** | Practice projects for layout, styling, and responsive basics | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
 
 
