@@ -30,17 +30,9 @@ I'm eager to learn new technologies and gain real-world experience through an in
 
 | Project | Description | Tech Stack |
 |--------|------------|------------|
-| 📝 **React Task Project** | Task management web app with CRUD, task status, and local storage | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 💰 **React Finance Project** | Responsive finance UI website focused on clean layout and UX | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
-| 🔐 **React Auth Supabase** | Authentication system with login, signup, and session handling | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) |
-| 🎨 **HTML & CSS Practice** | Practice projects for layout, styling, and responsive basics | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
+| 📝 **[React Task Project](https://thanayyy-react-task-project.netlify.app)** | Task management web app with CRUD, task status, and local storage | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 💰 **[React Finance Project](https://thanayyy-react-finance-project.netlify.app)** | Responsive finance UI website focused on clean layout and UX | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
+| 🔐 **[React Auth Supabase](https://thanayyy-react-auth-supabase.netlify.app)** | Authentication system with login, signup, and session handling | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) |
+| 🎨 **[HTML & CSS Practice](https://thanayyy-html-css-project.netlify.app)** | Practice projects for layout, styling, and responsive basics | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
 
-### 📝 React Task Project
-![preview](https://via.placeholder.com/800x400?text=Task+Project+Preview)
-
-- CRUD tasks with React
-- Task completion status
-- LocalStorage persistence
-
-🔗 Repo: https://github.com/thanayyy/react-task-project
 
