@@ -35,4 +35,12 @@ I'm eager to learn new technologies and gain real-world experience through an in
 | 🔐 **React Auth Supabase** | Authentication system with login, signup, and session handling | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) |
 | 🎨 **HTML & CSS Practice** | Practice projects for layout, styling, and responsive basics | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
 
+### 📝 React Task Project
+![preview](https://via.placeholder.com/800x400?text=Task+Project+Preview)
+
+- CRUD tasks with React
+- Task completion status
+- LocalStorage persistence
+
+🔗 Repo: https://github.com/thanayyy/react-task-project
 
